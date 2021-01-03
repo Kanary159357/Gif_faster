@@ -1,0 +1,9 @@
+#preview{
+	position:absolute;
+	border:1px solid #ccc;
+	background:#86919c;
+	padding:5px;
+	display:none;
+	z-index: 9999;
+	color:#fff;
+	}

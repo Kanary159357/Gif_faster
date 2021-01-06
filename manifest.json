@@ -1,8 +1,9 @@
 {
     "name" : "Gifaster",
     "description" : "control gif speed",
-    "version" : "0.2.0",
+    "version" : "0.3.0",
     "manifest_version" : 2,
+
     "icons" : {
         "16": "icon16.png",
         "48": "icon48.png",
@@ -12,7 +13,6 @@
         "default_popup":"index.html"
     },
     "permissions": [
-        "tabs",
         "https://*/*"
     ]
 }

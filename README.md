@@ -1,5 +1,15 @@
 # Gif_faster
-gif 배속
+
+Chrome-extension
 
 
-html import을 지원을 끊어서 귀찮아짐
+
+
+
+<h2>Description</h2>
+
+Make gif plays faster!!!
+
+used Gifuct<br/>https://github.com/matt-way/gifuct-js
+</br>
+for loading gif

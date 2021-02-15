@@ -10,6 +10,8 @@ Chrome-extension
 
 Make gif plays faster!!!
 
-used Gifuct<br/>https://github.com/matt-way/gifuct-js
-</br>
-for loading gif
+used Gifuct for loading gif<br/> https://github.com/matt-way/gifuct-js
+
+<h2>Features</h2>
+
+control Gif speed 
